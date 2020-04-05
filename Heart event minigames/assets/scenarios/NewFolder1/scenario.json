@@ -1,0 +1,13 @@
+{
+  "Name": "Epic Tale of a Tortoise",
+  "Scenes": [
+    {
+      "Dialogue": "This is the first line of dialogue",
+      "Image": "TestImage1.png"
+    },
+    {
+      "Dialogue": "This is the second line of dialogue",
+      "Image": "TestImage2.png"
+    }
+  ]
+}
